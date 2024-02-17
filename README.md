@@ -12,7 +12,8 @@
     ```gcc Jump.c -o Jump -lSDL2 -lSDL2_image -lSDL2_ttf      ```
 
 - 关于第三方库
-   - 使用了**SDL2图形库**，具体使用了```SDL2```,```SDL2main```,```SDL2_image```,```SDL2_ttf```  
+   - 使用了**SDL2图形库**，具体使用了```SDL2```,```SDL2main```,```SDL2_image```,```SDL2_ttf```
+   - bin文件夹有SDL2.zip，解压后放在与代码相同的目录可运行代码
 
 ## 二.游戏指南
 - **先按空格键开始**游戏
